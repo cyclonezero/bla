@@ -12,7 +12,7 @@
     },
     "vtd_pc": {
       "version": "1.0",
-      "trang_thai": false,
+      "trang_thai": true,
       "name": "vuatocdooo"
     }
   }
