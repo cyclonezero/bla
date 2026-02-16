@@ -7,7 +7,7 @@
     },
     "vtd_mobile": {
       "version": "1.0",
-      "trang_thai": true,
+      "trang_thai": false,
       "name": "vtdvphonev1.py"
     },
     "vtd_pc": {
