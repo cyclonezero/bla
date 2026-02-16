@@ -1,0 +1,19 @@
+{
+  "game_version": {
+    "vth": {
+      "version": "1.0",
+      "trang_thai": true,
+      "name": "vth_all_in_one.py"
+    },
+    "vtd_mobile": {
+      "version": "1.0",
+      "trang_thai": true,
+      "name": "vtdvphonev1.py"
+    },
+    "vtd_pc": {
+      "version": "1.0",
+      "trang_thai": false,
+      "name": "vuatocdooo"
+    }
+  }
+}
