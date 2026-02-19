@@ -12,7 +12,7 @@
     },
     "vtd_pc": {
       "version": "1.0",
-      "trang_thai": true,
+      "trang_thai": false,
       "name": "vuatocdooo.py"
     }
   }
