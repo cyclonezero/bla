@@ -4,16 +4,19 @@
       "version": "1.0",
       "trang_thai": true,
       "name": "vth_all_in_one.py"
+      "ten_hien_thi": "Game vua thoát hiểm"
     },
     "vtd_mobile": {
       "version": "1.0",
       "trang_thai": true,
       "name": "vtdv2.py"
+      "ten_hien_thi": "vua tốc độ cho điện thoại
     },
     "vtd_pc": {
       "version": "1.0",
       "trang_thai": false,
       "name": "vuatocdooo.py"
+      "ten_hien_thi": "vua tốc độ cho pc"
     }
   }
 }
