@@ -2,19 +2,19 @@
   "game_version": {
     "vth": {
       "version": "1.0",
-      "trang_thai": True,
+      "trang_thai": true,
       "name": "vth_all_in_one.py",
       "ten_hien_thi": "Game vua thoát hiểm"
     },
     "vtd_mobile": {
       "version": "1.0",
-      "trang_thai": True,
+      "trang_thai": true,
       "name": "vtdv2.py",
       "ten_hien_thi": "Vua tốc độ cho điện thoại"
     },
     "boom": {
       "version": "1.0",
-      "trang_thai": False,
+      "trang_thai": false,
       "name": "bomltool",
       "ten_hien_thi": "Game bom nổ banh acc"
     }
