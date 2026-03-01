@@ -2,21 +2,21 @@
   "game_version": {
     "vth": {
       "version": "1.0",
-      "trang_thai": true,
-      "name": "vth_all_in_one.py"
+      "trang_thai": True,
+      "name": "vth_all_in_one.py",
       "ten_hien_thi": "Game vua thoát hiểm"
     },
     "vtd_mobile": {
       "version": "1.0",
-      "trang_thai": true,
-      "name": "vtdv2.py"
-      "ten_hien_thi": "vua tốc độ cho điện thoại"
+      "trang_thai": True,
+      "name": "vtdv2.py",
+      "ten_hien_thi": "Vua tốc độ cho điện thoại"
     },
-    "vtd_pc": {
+    "boom": {
       "version": "1.0",
-      "trang_thai": false,
-      "name": "vuatocdooo.py"
-      "ten_hien_thi": "vua tốc độ cho pc"
+      "trang_thai": False,
+      "name": "bomltool",
+      "ten_hien_thi": "Game bom nổ banh acc"
     }
   }
 }
