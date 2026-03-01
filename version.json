@@ -15,7 +15,7 @@
     "boom": {
       "version": "1.0",
       "trang_thai": true,
-      "name": "bomltool",
+      "name": "bomltool.py",
       "ten_hien_thi": "Game bom nổ banh acc"
     }
   }
